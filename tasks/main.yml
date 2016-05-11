@@ -1,0 +1,3 @@
+---
+# tasks file for sa-lighttable
+  - include: tasks_lighttable.yml

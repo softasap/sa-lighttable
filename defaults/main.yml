@@ -1,0 +1,9 @@
+---
+# defaults file for sa-lighttable
+
+  lighttable_version: 0.8.1
+
+  root_dir: "{{role_path}}"
+  deploy_user: "{{ansible_user_id}}"
+  apps_dir: "/home/{{ansible_user_id}}/apps"
+
